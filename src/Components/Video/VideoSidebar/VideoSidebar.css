@@ -1,0 +1,13 @@
+.sidebar{
+    position: absolute;
+    top:45%;
+    right: 10px;
+    color: white;
+}
+.sidebar__icons{
+    padding:10px;
+    text-align: center;
+}
+.sidebar__icons>.MuiSvgIcon-root.MuiSvgIcon-fontSizeLarge{
+    padding-top: 10px;
+}
