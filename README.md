@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Вue to limitations of TikTok, videos are not displayed, but the application is fully functional))
+Due to limitations of TikTok, videos are not displayed, but the application is fully functional))
 ## Available Scripts
 
 In the project directory, you can run:
